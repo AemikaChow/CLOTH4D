@@ -10,3 +10,6 @@
     <a href=""><strong>Waikeung Wong</strong></a>
   </p>
   <h2 align="center">CVPR 2023</h2>
+  <div align="center">
+    <img src="./media/first_pages-to-jpg-0001.jpg" alt="Logo" width="100%">
+  </div>
