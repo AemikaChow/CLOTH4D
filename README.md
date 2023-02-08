@@ -1,1 +1,3 @@
 # CLOTH4D
+
+<!-- PROJECT LOGO -->
