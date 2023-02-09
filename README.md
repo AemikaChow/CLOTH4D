@@ -18,9 +18,16 @@
 <br />
 <br />
 
-## News :pig: :pig:
+## News
 
 - [2023/03/11] Data generation pipeline.
+
+
+<br>
+
+## Instructions
+
+- [Data generation pipeline.md](Data Generation Pipeline.md) to generate your own CLOTH4D-type data
 
 
 <br>
