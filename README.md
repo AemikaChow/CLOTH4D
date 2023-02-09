@@ -27,7 +27,7 @@
 
 ## Instructions
 
-- [Data generation pipeline.md](Data Generation Pipeline.md) to generate your own CLOTH4D-type data
+- [Data generation pipeline.md](DataGenerationPipeline.md) to generate your own CLOTH4D-type data
 
 
 <br>
