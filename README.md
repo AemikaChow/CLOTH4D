@@ -26,7 +26,7 @@
 
 ## How to Use
 
-- [Obtain Subset of CLOTH4D] We prepare 30,000 meshes for direct usage. The structure is similar to 【_[Thuman2](https://github.com/ytrock/THuman2.0-Dataset)_】, organized into three folders: scans, smplx, and 8_views. Thus, you can directly train or test on any Thuman2 compatible repos. For example, using 【_[ICON](https://github.com/YuliangXiu/ICON)_】. 
+- [Obtain Subset of CLOTH4D](https://github.com/AemikaChow/) We prepare 30,000 meshes for direct usage. The structure is similar to 【_[Thuman2](https://github.com/ytrock/THuman2.0-Dataset)_】, organized into three folders: scans, smplx, and 8_views. Thus, you can directly train or test on any Thuman2 compatible repos. For example, using 【_[ICON](https://github.com/YuliangXiu/ICON)_】. 
 
 
 <br>
