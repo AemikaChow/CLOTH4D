@@ -18,6 +18,12 @@
 <br />
 <br />
 
+## Quick View
+
+<div align="center">
+    <img src="./media/quick.jpg" alt="Logo" width="100%">
+  </div>
+
 ## News
 
 - [2023/03/11] Data generation pipeline.
