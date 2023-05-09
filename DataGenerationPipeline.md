@@ -20,10 +20,10 @@ Option 1: Use your own .zprj file
 (8) Back the mode to "Simulation", delete the clothing, save the naked avatar in fbx file --> A.fbx
 
 Option 2: Use our .zprj file
-(1) Change the mode from "Simulation" to "UV Editor"
-(2) Right click, select "reset UV to 2D arrangement", and also "Fit all UV to 0-1"
-(3) Export the clothed avatar in OBJ with zip file (noted "Unified UV Coordinates (PNG)" checked) --> Texture.zip
-(4) Back the mode to "Simulation", delete the clothing, save the naked avatar in fbx file --> A.fbx
+1. Change the mode from "Simulation" to "UV Editor"
+2. Right click, select "reset UV to 2D arrangement", and also "Fit all UV to 0-1"
+3. Export the clothed avatar in OBJ with zip file (noted "Unified UV Coordinates (PNG)" checked) --> Texture.zip
+4. Back the mode to "Simulation", delete the clothing, save the naked avatar in fbx file --> A.fbx
 
 <br />
 
