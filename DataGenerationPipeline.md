@@ -1,5 +1,12 @@
 ## How to obtain CLOTH4D-type data
 
+<div align="center">
+    <img src="./media/datapipeline.png" alt="Logo" width="100%">
+</div>
+
+<br />
+<br />
+
 1. CLO -> Select one official avatar of CLO or import an outside avatar (not recommended; in this case, you need to rig the skeleton of the avatar in CLO)
 2. CLO -> Adjust the physical appearance of your avatar (if you select the official avatar)
 3. CLO -> Export the avatar in OBJ/FBX file

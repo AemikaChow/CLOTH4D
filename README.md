@@ -22,7 +22,7 @@
 
 <div align="center">
     <img src="./media/quick.jpg" alt="Logo" width="100%">
-  </div>
+</div>
 
 ## How to Use
 
