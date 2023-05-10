@@ -58,6 +58,8 @@ Option 2: Use our .zprj file
 
 <br />
 
+:cherries: **Remaining steps** 
+
 1. Unzipped the Texture.zip
 2. Copy the inside files to the location of saved sequences obj files
 3. Revise the file name of "convert_to_unified_uv.py" accordingly and run
@@ -65,9 +67,4 @@ Option 2: Use our .zprj file
 
 <br />
 
-:cherries: **Check the Tutorial here** 
-
-
-<video width="320" height="240" controls>
-    <source src="./media/Tutorial_compressed.mp4" type="video/mp4">
-</video>
+:cherries: **Check the Tutorial [here](https://github.com/YuliangXiu/ICON/blob/master/docs/dataset.md)** 
