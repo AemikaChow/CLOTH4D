@@ -67,4 +67,4 @@ Option 2: Use our .zprj file
 
 <br />
 
-:cherries: **Check the Tutorial [here](https://www.youtube.com/watch?v=EIfcNRk6y3A)** 
+:cherries: **Check the Tutorial [here](https://www.youtube.com/watch?v=EIfcNRk6y3A)** 被墙可以看这里 [here](https://www.bilibili.com/video/BV13h4y1b7rf/?spm_id_from=333.999.0.0&vd_source=4fe8f13d76672d39e86fa39fc1b0f813)
