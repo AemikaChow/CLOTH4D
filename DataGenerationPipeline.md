@@ -67,4 +67,4 @@ Option 2: Use our .zprj file
 
 <br />
 
-:cherries: **Check the Tutorial [here](https://github.com/YuliangXiu/ICON/blob/master/docs/dataset.md)** 
+:cherries: **Check the Tutorial [here](https://www.youtube.com/watch?v=EIfcNRk6y3A)** 
