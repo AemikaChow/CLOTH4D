@@ -67,8 +67,7 @@ Option 2: Use our .zprj file
 
 :cherries: **Check the Tutorial here** 
 
-```HTML
+
 <video width="320" height="240" controls>
     <source src="./media/Tutorial_compressed.mp4" type="video/mp4">
 </video>
-```
