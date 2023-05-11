@@ -63,7 +63,8 @@ Option 2: Use our .zprj file
 1. Unzipped the Texture.zip
 2. Copy the inside files to the location of saved sequences obj files
 3. Revise the file name of "convert_to_unified_uv.py" accordingly and run
-4. To obtain the rendered files, we recommend follow [ICON](https://github.com/YuliangXiu/ICON/blob/master/docs/dataset.md)
+4. To obtain the rendered files, we recommend to follow [ICON](https://github.com/YuliangXiu/ICON/blob/master/docs/dataset.md)
+5. To obtain the watertight meshes, we recommend to follow [ManifoldPlus](https://github.com/hjwdzh/ManifoldPlus)
 
 <br />
 
