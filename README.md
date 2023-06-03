@@ -31,7 +31,18 @@
 - 【**Obtain the Source Files of Outfits and Fabric Prints and Materials**】 We also willing to share the source files of 3D outfits for community to create more 3D/4D clothed human data. All the outfits are created in professional 3D software in fashion with high quality. You can preview all ready-for-sharing outfits [here](https://hkaidlab-my.sharepoint.com/:f:/g/personal/xingxingzou_aidlab_hk/Euh4NBFEpp5IkXydRMgxBv8BkfWI-svpyvhz8Oi-HITzew?e=c7yAvO). They are rich in prints, materials, details designs, and, most importantly, realistic (e.g., a clothed human in the real world is not water-tight). As reported in our paper, although current SOTAs achieved astonishing results, they still have space on CLOTH4D. If you want to access this part of the data, you could connect with our business manager [**Barry Tai**](https://www.aidlab.hk/en/people-detail/barry-tai-) via barrytai@aidlab.hk. You may need to sign an agreement with us before getting the data. We aim to share this for academic usage and push toward a more realistic and temporally coherent clothed human reconstruction.
 
 - 【[**Data Generation Pipeline**](DataGenerationPipeline.md)】We provide instructions to create CLOTH4D-type data.
-  
+
+## Citation
+```bib
+@inproceedings{zou2023cloth4d,
+  title={CLOTH4D: A Dataset for Clothed Human Reconstruction},
+  author={Zou, Xingxing and Han, Xintong and Wong, Waikeung},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={12847--12857},
+  year={2023}
+}
+```
+
 <br>
 
 
